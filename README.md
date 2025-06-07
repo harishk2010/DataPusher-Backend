@@ -124,17 +124,15 @@ npm run test:coverage # Test coverage report
 ## 📬 API Documentation
 
 ### 🧾 Postman
-- Import the Postman collection manually or publish it to the Public API Network.
-- All endpoints, headers, body schemas, and success/error responses are included.
+**Live Documentation:** [https://documenter.getpostman.com/view/33622937/2sB2x3mst3](https://documenter.getpostman.com/view/33622937/2sB2x3mst3)
 
-### 📘 Swagger (Optional)
-To add Swagger UI:
-```bash
-npm install swagger-ui-express swagger-jsdoc
-```
-Then mount your Swagger setup in `index.ts` for real-time docs.
+- Complete API documentation with all endpoints, request/response examples
+- Interactive testing environment
+- All endpoints, headers, body schemas, and success/error responses are included
+- Import the Postman collection manually or use the live documentation
 
 ---
+
 
 
 ## ⚠️ Rate Limiting
@@ -179,4 +177,3 @@ This project is intended for assessment and internal use. Contact the author for
 - Postman, Express, and TypeScript contributors
 
 ---
-
